@@ -9,7 +9,7 @@ Based on these inputs, the program calculates the total bill and displays it to 
 
 This project demonstrates basic Python programming concepts, decision-making using conditions, and user interaction.
 
-#What Is Happening in This Project?
+# What Is Happening in This Project?
 
 The program prompts the user to enter:
 
