@@ -13,11 +13,9 @@ This project demonstrates basic Python programming concepts, decision-making usi
 
 The program prompts the user to enter:
 
-The size of the pizza (S, M, or L)
-
-Whether pepperoni is required (Y or N)
-
-Whether extra cheese is required (Y or N)
+  * The size of the pizza (S, M, or L)
+  * Whether pepperoni is required (Y or N)
+  * Whether extra cheese is required (Y or N)
 
 The base price of the pizza is determined by its size.
 
